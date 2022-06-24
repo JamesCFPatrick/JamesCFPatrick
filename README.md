@@ -1,6 +1,6 @@
 - 👋 Hi, I’m James.
 - 👀 I’m interested in networking, web dev, netsec, pen testing and general coding!
-- 🌱 I’m currently learning web development using AWS.
+- 🌱 I’m currently learning web development using AWS and a number of other hosting providers.
 
 <!---
 JamesCFPatrick/JamesCFPatrick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
